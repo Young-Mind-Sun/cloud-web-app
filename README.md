@@ -1,1 +1,21 @@
-# cloud-web-app
+<html>
+<head>
+    <title>My Cloud Application</title>
+</head>
+ 
+<body>
+ 
+    <h1>Welcome to Cloud Computing</h1>
+ 
+    <h2>My First Cloud Web Application</h2>
+ 
+    <p>This application is hosted using GitHub Pages.</p>
+ 
+    <h3>Student Information</h3>
+ 
+    <p>Name: Aditya Gujar Pasi</p>
+    <p>Course: BCA</p>
+    <p>Semester: 5th Semester</p>
+ 
+</body>
+</html>
